@@ -39,9 +39,4 @@ The execution time for the entire process, including hyperparameter tuning, trai
 
 Detailed results, including hyperparameters for each approach, will be presented in the results section.
 
-## Getting Started:
 
-To replicate or build upon our findings, follow the steps outlined in the accompanying code repository. Ensure you have the required dependencies installed using the following command:
-
-```bash
-pip install -r requirements.txt
